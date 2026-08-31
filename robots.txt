@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cerverus-17.github.io/docs-eharz7/sitemap.xml
